@@ -1,8 +1,9 @@
 # Explainable Fraud Alert AI
 
-An explainable machine-learning portfolio project for **fraud-alert prioritisation and analyst decision support** using Python, XGBoost, SHAP and Streamlit.
 
-> **Important:** This project uses synthetic data and is designed for learning/portfolio purposes. It is not a production fraud-detection system and must not be represented as autonomous financial-crime decisioning.
+## Demo Preview
+
+![Fraud AI demo preview](assets/dashboard-preview.png)
 
 ## Business Problem
 
